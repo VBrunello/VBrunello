@@ -13,7 +13,7 @@
 ## <span style="color:purple">**Skills**
 [![My Skills](https://skillicons.dev/icons?i=obsidian,html,css,blender,github,git,unity,godot,md&theme=light)](https://skillicons.dev)
 
-## <span style="color:purple">Github stats**
+## <span style="color:purple">**Github stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VBrunello&theme=transparent&bg_color=000&border_color=640864&show_icons=true&icon_color=640864&title_color=640864&text_color=FFF) 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VBrunello&bg_color=000&border_color=640864&title_color=640864&text_color=FFF)
 
