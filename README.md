@@ -11,7 +11,7 @@
 <p align=center>🌟My interests are: Scifi, writing, games (JRPGS, FPS, Fighting Games), anime, tokusatsu, music and 3D modeling
 
 ## <p align=center>**Skills**</p>
-[![My Skills](https://skillicons.dev/icons?i=obsidian,html,css,blender,github,git,unity,godot,md&theme=light)](https://skillicons.dev)
+<div align=center>[![My Skills](https://skillicons.dev/icons?i=obsidian,html,css,blender,github,git,unity,godot,md&theme=light)](https://skillicons.dev)</div>
 
 ## <p align=center>**Github stats**</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VBrunello&theme=transparent&bg_color=000&border_color=640864&show_icons=true&icon_color=640864&title_color=640864&text_color=FFF) 
