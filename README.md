@@ -1,4 +1,4 @@
-# <span style="text-align:center">🤖Hello, I'm Vítor!
+# <span align=center>🤖Hello, I'm Vítor!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/vitor-gonela-brunello/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple)](mailto:vitorg.brunello@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/VBrunello)
