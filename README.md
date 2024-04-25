@@ -10,7 +10,7 @@
 
 🌟My interests are: Scifi, writing, games (JRPGS, FPS, Fighting Games), anime, tokusatsu, music and 3D modeling
 
-## <p style="color:purple">**Skills**</p>
+## <p color=purple>**Skills**</p>
 [![My Skills](https://skillicons.dev/icons?i=obsidian,html,css,blender,github,git,unity,godot,md&theme=light)](https://skillicons.dev)
 
 ## <p style="color:purple">**Github stats**</p>
