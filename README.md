@@ -4,17 +4,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple)](https://github.com/VBrunello)
 
 ## <p align=center>**About me**</p>
-📚I'm a Game Designer always studying new engines and other tools.
+<p align=center>📚I'm a Game Designer always studying new engines and other tools.
 
 📍 Currently living in Riberão Preto, São Paulo, Brazil.
 
-🌟My interests are: Scifi, writing, games (JRPGS, FPS, Fighting Games), anime, tokusatsu, music and 3D modeling
+🌟My interests are: Scifi, writing, games (JRPGS, FPS, Fighting Games), anime, tokusatsu, music and 3D modeling</p>
 
 ## <p align=center>**Skills**</p>
-[![My Skills](https://skillicons.dev/icons?i=obsidian,html,css,blender,github,git,unity,godot,md&theme=light)](https://skillicons.dev)
+<p align=center>[![My Skills](https://skillicons.dev/icons?i=obsidian,html,css,blender,github,git,unity,godot,md&theme=light)](https://skillicons.dev)</p>
 
 ## <p align=center>**Github stats**</p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VBrunello&theme=transparent&bg_color=000&border_color=640864&show_icons=true&icon_color=640864&title_color=640864&text_color=FFF) 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VBrunello&bg_color=000&border_color=640864&title_color=640864&text_color=FFF)
+<p align=center>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VBrunello&theme=transparent&bg_color=000&border_color=640864&show_icons=true&icon_color=640864&title_color=640864&text_color=FFF) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VBrunello&bg_color=000&border_color=640864&title_color=640864&text_color=FFF)</p>
 
  
