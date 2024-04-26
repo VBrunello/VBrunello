@@ -1,3 +1,4 @@
+<div align=center>
 # <p align=center>🤖**Hello, I'm Vítor!**</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/vitor-gonela-brunello/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple)](mailto:vitorg.brunello@gmail.com)
@@ -16,5 +17,4 @@
 ## <p align=center>**Github stats**</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VBrunello&theme=transparent&bg_color=000&border_color=640864&show_icons=true&icon_color=640864&title_color=640864&text_color=FFF) 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VBrunello&bg_color=000&border_color=640864&title_color=640864&text_color=FFF)
-
- 
+</div>
